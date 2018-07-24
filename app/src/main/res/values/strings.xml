@@ -2,4 +2,5 @@
     <string name="app_name">NotificacionFirebase</string>
 
     <string name="button_lanzar_notificacion">Lanzar notificación</string>
+    <string name="default_notification_channel_id">News</string>
 </resources>
