@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificacionFirebase</string>
+
+    <string name="button_lanzar_notificacion">Lanzar notificación</string>
+</resources>
